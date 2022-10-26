@@ -13,8 +13,7 @@ const Home = () => {
             <h1 className="title-home">Kami Penuhi Kebutuhan Pangan Anda</h1>
             <p className="content">
               Kami penuh kebutuhan pangan anda dengan produk yang kami sediakan
-              dengan <br />
-              dengan harga bersahabat dan kualitas yang terjamin
+              dengan dengan harga bersahabat dan kualitas yang terjamin
             </p>
             <button className="btn-start">Produk Kami</button>
           </div>
