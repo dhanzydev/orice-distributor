@@ -1,0 +1,24 @@
+.wrapper {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.title-profile {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 64px;
+}
+
+.content-profile {
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+
+@media (max-width: 768px) {
+  .title-profile {
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: center;
+  }
+}
