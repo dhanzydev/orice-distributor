@@ -1,3 +1,36 @@
 * {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+.title {
+  font-weight: 700;
+  line-height: 86px;
+  font-size: 50px;
+  margin-bottom: 28px;
+}
+.nav-link.active{
+  color:#27AE60 !important;
+}
+.nav-link:hover{
+  color:#27AE60 !important;
+}
+.btn-primary{
+  background-color: #27AE60 !important;
+  border-color: #27AE60 !important;
+}
+.card{
+  border: none !important;
+  border-radius: 0 !important;
+}
+.footer{
+  width: 100%;
+  height: auto;
+  background-color:#6FCF97;
+  color:#F2F2F2;
+}
+.footer ul li{
+  list-style : none;
+}
+.footer ul li a{
+  text-decoration: none;
+  color: #F2F2F2;
 }

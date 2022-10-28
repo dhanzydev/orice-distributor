@@ -8,9 +8,9 @@ const Home = () => {
   return (
     <div className="bg-color">
       <Container>
-        <div className="row py-5">
+        <div className="row py-5 d-flex align-items-center ">
           <div className="col-12 col-lg-6 content-wrapper">
-            <h1 className="title-home">Kami Penuhi Kebutuhan Pangan Anda</h1>
+            <h1 className="title text-white">Kami Penuhi Kebutuhan Pangan Anda</h1>
             <p className="content">
               Kami penuh kebutuhan pangan anda dengan produk yang kami sediakan
               dengan <br />
