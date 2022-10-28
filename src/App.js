@@ -11,8 +11,8 @@ const App = () => {
     <div>
       <NavigationBar />
       <Home />
-      <Product />
       <Profile />
+      <Product />
       <Contact />
       <Footer />
     </div>
